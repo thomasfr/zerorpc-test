@@ -1,23 +1,23 @@
 {
-  "name": "zerorpc-test",
-  "version": "0.0.0",
-  "description": "ZeroRPC Tests",
-  "main": "index.js",
-  "dependencies": {
-    "zerorpc": "~0.9.3",
-    "architect": "~0.1.10"
-  },
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/thomasfr/zerorpc-test.git"
-  },
-  "author": "",
-  "license": "BSD",
-  "bugs": {
-    "url": "https://github.com/thomasfr/zerorpc-test/issues"
-  }
+	"name": "zerorpc-test",
+	"version": "0.0.0",
+	"description": "ZeroRPC Tests",
+	"main": "index.js",
+	"dependencies": {
+		"zerorpc": "~0.9.3",
+		"architect": "~0.1.10"
+	},
+	"devDependencies": {},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/thomasfr/zerorpc-test.git"
+	},
+	"author": "",
+	"license": "BSD",
+	"bugs": {
+		"url": "https://github.com/thomasfr/zerorpc-test/issues"
+	}
 }
